@@ -1,28 +1,27 @@
 # Portfolio
 
 ---
-
 ## Projects 
 
-### 1. [Spotify Data](/SpotifyData)
+### [1. Spotify Data](/SpotifyData)
 
 <img src="images/spotify_logo.png?raw=true"
     width="45" 
     height="45" />
 
 **Visialization Example**
-<br>
+
 Artist Most Popular Track
 <img src="images/Artist_Most_Popular_Track.jpg?raw=true"/>
 
 ---
-### 2. [News Analysis on Tweets](/TwitterProject/)
+<br>
+
+### [2. News Analysis on Tweets](/TwitterProject/)
 
 <img src="images/twitter-logo.png?raw=true"
     width="50" 
     height="45" />
-
-<br>
 
 **News on twitter covering Social Protests**
 
@@ -39,6 +38,7 @@ width="420"
 height="250"/>
 
 ---
+<br>
 <!-- [Project 3 Title](http://example.com/)
 <br>
 Example
