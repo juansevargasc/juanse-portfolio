@@ -5,7 +5,6 @@
 ## Projects 
 
 ### 1. [Spotify Data](/SpotifyData)
-<br>
 
 <img src="images/spotify_logo.png?raw=true"
     width="45" 
@@ -18,10 +17,9 @@ Artist Most Popular Track
 
 ---
 ### 2. [News Analysis on Tweets](/TwitterProject/)
-<br>
 
 <img src="images/twitter-logo.png?raw=true"
-    width="45" 
+    width="50" 
     height="45" />
 
 <br>
