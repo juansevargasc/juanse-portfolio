@@ -18,7 +18,7 @@ Under construction 🏗️👷‍♀️
 <h4> Artist Most Popular Track</h4>
 <p><img 
      src="images/Artist_Most_Popular_Track.jpg?raw=true"
-     width="800" 
+     width="1000" 
      height="450"/>
 </p>
 
