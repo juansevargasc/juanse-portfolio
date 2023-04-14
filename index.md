@@ -3,39 +3,50 @@
 ---
 ## Projects 
 
-### [1. Spotify Data](/SpotifyData)
+### 2022 Flight Departures in the U.S 🇺🇸🛫
+Under construction 🏗️👷‍♀️
 
-<img src="images/spotify_logo.png?raw=true"
-    width="45" 
-    height="45" />
+---
+<h3 align="left">Spotify Data <img
+     src="images/spotify_logo.png?raw=true"
+    width="25" 
+    height="25" /></h3>
+    
+[Project Page](/SpotifyData)
 
-**Visialization Example**
 
-Artist Most Popular Track
-<img src="images/Artist_Most_Popular_Track.jpg?raw=true"/>
+<h4> Artist Most Popular Track</h4>
+<p><img 
+     src="images/Artist_Most_Popular_Track.jpg?raw=true"
+     width="800" 
+     height="450"/>
+</p>
 
 ---
 <br>
 
-### [2. News Analysis on Tweets](/TwitterProject/)
+<h3 align="left">News Analysis on Tweets <img
+     src="images/twitter-logo.png?raw=true"
+    width="25" 
+    height="20" /></h3>
+    
+[Project Page](/TwitterProject)
 
-<img src="images/twitter-logo.png?raw=true"
-    width="50" 
-    height="45" />
+
 
 **News on twitter covering Social Protests**
 
 - Deutsche Welle Pie Chart
 
 <img src="images/deutsche_welle.png?raw=true"
-    width="420" 
-    height="250"/>
+    width="400" 
+    height="230"/>
 
 - France24 Pie Chart
 
 <img src="images/france24.png?raw=true"
-width="420" 
-height="250"/>
+width="400" 
+height="230"/>
 
 ---
 <br>
