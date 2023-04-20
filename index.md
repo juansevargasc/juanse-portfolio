@@ -8,7 +8,7 @@ Under construction 🏗️👷‍♀️
 [Project Page](/2022-Departures)
 
 <figure>
-    <img src="img/nicolas-jehly-6WImwokn8dA-unsplash.jpg"
+    <img src="images/nicolas-jehly-6WImwokn8dA-unsplash.jpg"
          alt="Newark Airport">
     <figcaption>Newark, New Jersey @nicolasjehly</figcaption>
 </figure>
